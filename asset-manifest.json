@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lastwish/static/css/main.8b57f6c9.chunk.css",
+    "main.js": "/lastwish/static/js/main.67f95665.chunk.js",
+    "main.js.map": "/lastwish/static/js/main.67f95665.chunk.js.map",
+    "runtime-main.js": "/lastwish/static/js/runtime-main.4f8ef844.js",
+    "runtime-main.js.map": "/lastwish/static/js/runtime-main.4f8ef844.js.map",
+    "static/js/2.6a61c090.chunk.js": "/lastwish/static/js/2.6a61c090.chunk.js",
+    "static/js/2.6a61c090.chunk.js.map": "/lastwish/static/js/2.6a61c090.chunk.js.map",
+    "static/js/3.7bbdea28.chunk.js": "/lastwish/static/js/3.7bbdea28.chunk.js",
+    "static/js/3.7bbdea28.chunk.js.map": "/lastwish/static/js/3.7bbdea28.chunk.js.map",
+    "index.html": "/lastwish/index.html",
+    "static/css/main.8b57f6c9.chunk.css.map": "/lastwish/static/css/main.8b57f6c9.chunk.css.map",
+    "static/js/2.6a61c090.chunk.js.LICENSE.txt": "/lastwish/static/js/2.6a61c090.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f8ef844.js",
+    "static/js/2.6a61c090.chunk.js",
+    "static/css/main.8b57f6c9.chunk.css",
+    "static/js/main.67f95665.chunk.js"
+  ]
+}
