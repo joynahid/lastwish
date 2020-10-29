@@ -2,6 +2,17 @@
   text-align: center;
 }
 
+a {
+  color: #585858;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover {
+  color: blue;
+  transition: 0.5;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
